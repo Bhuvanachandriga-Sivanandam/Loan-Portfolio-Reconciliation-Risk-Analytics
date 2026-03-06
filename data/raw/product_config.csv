@@ -1,0 +1,9 @@
+product_code,product_name,min_amount,max_amount,min_rate,max_rate,term_months,secured_flag,risk_weight_pct
+MTG-FIX,Fixed Rate Mortgage,100000,800000,4.5,6.5,300,Y,35
+MTG-VAR,Variable Rate Mortgage,100000,700000,5.0,7.0,300,Y,35
+HELOC,Home Equity Line of Credit,25000,300000,6.0,8.5,120,Y,35
+AUTO,Auto Loan,10000,75000,5.5,9.0,72,Y,75
+PL-SEC,Secured Personal Loan,5000,50000,7.0,12.0,60,Y,75
+PL-UNSEC,Unsecured Personal Loan,2000,35000,8.5,15.0,48,N,100
+LOC,Line of Credit,5000,50000,7.5,12.5,60,N,100
+STUDENT,Student Loan,5000,60000,4.0,7.5,120,N,75

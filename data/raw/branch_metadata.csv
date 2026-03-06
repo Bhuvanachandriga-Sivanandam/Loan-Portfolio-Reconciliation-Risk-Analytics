@@ -1,0 +1,26 @@
+branch_id,branch_name,city,province,region
+BR-001,Head Office Toronto,Toronto,ON,Central
+BR-002,Midtown Toronto,Toronto,ON,Central
+BR-003,Downtown Toronto,Toronto,ON,Central
+BR-004,Scarborough,Toronto,ON,Central
+BR-005,North York,Toronto,ON,Central
+BR-006,Mississauga,Mississauga,ON,Central
+BR-007,Brampton,Brampton,ON,Central
+BR-008,Ottawa Centre,Ottawa,ON,Eastern
+BR-009,Hamilton,Hamilton,ON,Central
+BR-010,London ON,London,ON,Western ON
+BR-011,Vancouver Downtown,Vancouver,BC,Pacific
+BR-012,Vancouver Metrotown,Burnaby,BC,Pacific
+BR-013,Surrey,Surrey,BC,Pacific
+BR-014,Victoria,Victoria,BC,Pacific
+BR-015,Calgary Downtown,Calgary,AB,Prairie
+BR-016,Calgary South,Calgary,AB,Prairie
+BR-017,Edmonton,Edmonton,AB,Prairie
+BR-018,Montreal Centre,Montreal,QC,Quebec
+BR-019,Montreal East,Montreal,QC,Quebec
+BR-020,Quebec City,Quebec City,QC,Quebec
+BR-021,Winnipeg,Winnipeg,MB,Prairie
+BR-022,Saskatoon,Saskatoon,SK,Prairie
+BR-023,Halifax,Halifax,NS,Atlantic
+BR-024,Fredericton,Fredericton,NB,Atlantic
+BR-025,Kitchener,Kitchener,ON,Western ON
