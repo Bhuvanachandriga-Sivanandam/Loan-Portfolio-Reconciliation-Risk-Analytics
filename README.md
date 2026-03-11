@@ -35,28 +35,18 @@ This project simulates a **realistic multi-source reconciliation** scenario insp
         ┌────────────────────────┐
         │  WORKFLOW 1: DATA PREP │
         │  & QUALITY CHECKS      │
-        │  (01_data_preparation) │
-        └────────────┬───────────┘
-                     ▼
-        ┌────────────────────────┐
-        │  WORKFLOW 2: MULTI-WAY │
+        │  (01_data_preparation)
+                  MULTI-WAY 
         │  RECONCILIATION        │
-        │  (02_reconciliation)   │
+        │  (02_reconciliation) │
         └────────────┬───────────┘
                      ▼
         ┌────────────────────────┐
         │  WORKFLOW 3: RISK      │
         │  CONCENTRATION &       │
         │  PORTFOLIO ANALYTICS   │
-        │  (03_risk_analytics)   │
-        └────────────┬───────────┘
-                     ▼
-        ┌────────────────────────┐
-        │  WORKFLOW 4: AUTOMATED │
-        │  EXCEPTION REPORT &    │
-        │  DASHBOARD OUTPUT      │
-        │  (04_reporting)        │
-        └────────────────────────┘
+        │  (02_risk_analytics)   │
+        └────────────┬───────────
 ```
 
 ---
