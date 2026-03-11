@@ -2,8 +2,7 @@
 
 > End-to-end data analytics pipeline built in **Alteryx Designer** for detecting reconciliation discrepancies, assessing credit risk concentrations, and automating regulatory reporting across a simulated retail banking loan portfolio.
 
-![Alteryx](https://img.shields.io/badge/Built%20With-Alteryx%20Designer-0078C1?style=flat-square)
-![Python](https://img.shields.io/badge/Validation-Python%203.11-3776AB?style=flat-square)
+![Alteryx](https://img.shields.io/badge/Built%20With-Alteryx%20Designer-0078C1?style=flat-squar
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
 ---
