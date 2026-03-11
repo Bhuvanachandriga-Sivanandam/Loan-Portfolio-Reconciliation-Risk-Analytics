@@ -176,6 +176,6 @@ Expected Loss = Probability of Default (PD) × Loss Given Default (LGD) × Expos
 
 ## About
 
-Built by **Bhuvanachandriga Sivanandam** — Senior Data Analyst with 7+ years of experience in banking operations, reconciliation, and automation. This project demonstrates the same reconciliation and risk analytics logic previously implemented in Python/SQL at scale (10,000+ records, uncovering a $22M accounting discrepancy), now replicated in Alteryx to showcase platform versatility.
+Built by **Bhuvanachandriga Sivanandam** — Senior Data Analyst with 7+ years of experience in banking operations, reconciliation, and automation. This project demonstrates the same reconciliation and risk analytics logic previously implemented in Python/SQL at scale (10,000+ records, uncoverig discrepancy), now replicated in Alteryx to showcase platform versatility.
 
 [LinkedIn](https://www.linkedin.com/in/bhuvanachandriga) | [GitHub](https://github.com/Bhuvanachandriga-Sivanandam)
